@@ -1,2 +1,0 @@
-# arifmustaqim
-My Personal Site
